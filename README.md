@@ -11,7 +11,7 @@ You can check me out on LinkedIn and Instagram. I have some links below:
 - C++
 
 🔭 I’m currently working on my Portfolio Website.  
-🌱 I’m currently learning React.js
+🌱 I’m currently learning React.js.
 
 ---
 
