@@ -63,7 +63,7 @@ export default function Home() {
              CSS, and React.js to showcase my projects and skills. 
              The site features a responsive design, interactive project
               displays, and a contact form, providing a professional 
-              platform to highlight my work and experience.
+              platform to highlight my work and experience
             </p>
         </section>
         </section>
