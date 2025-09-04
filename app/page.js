@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-      <title>Jerome Carr Portfolio</title>
+      <title>Jerome Carr's Portfolio</title>
       </Head>
       <main className= "bg-zinc-200 px-10">
         <section className="min-h-screen">
