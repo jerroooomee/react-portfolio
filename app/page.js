@@ -41,7 +41,7 @@ export default function Home() {
             <div className="md:w-1/2 px-5">
             <h3 className="text-5xl py-1">About Me </h3> 
             <p className="text-2xl  text-gray-800 max-w-xl">
-            Jerome Carr, a 22-year-old Ohio State University student studying electrical and computer engineering,
+            Jerome Carr, a 23 year old Ohio State University student studying electrical and computer engineering,
              is originally from Ghana and currently resides in Columbus, Ohio. Passion and tenacity have characterized
               his engineering career, but there have been setbacks as well. In addition to his academic duties, 
               Jerome works at Amazon as a Process Assistant, where he honed his problem-solving abilities and 
