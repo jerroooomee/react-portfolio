@@ -57,10 +57,11 @@ export default function Home() {
               Jerome Carr, a 23-year-old Ohio State University student studying electrical and computer engineering,
               is originally from Ghana and currently resides in Columbus, Ohio. Passion and tenacity have characterized
               his engineering career, but there have been setbacks as well. In addition to his academic duties, Jerome
-              works at Amazon as a Process Assistant, where he honed his problem-solving abilities and discovered the
-              value of efficiency in a hectic setting. Jerome has had to exercise perseverance in juggling his demanding
-              work and coursework, but he is still motivated by his passion for innovation and technology. His resilience
-              has been bolstered by this dual experience, positioning him for a future where he intends to combine his
+              works at AWS as an Engineering Operations Technician, where he is getting hands-on experience troubleshooting 
+              critical electrical, mechanical, and HVAC systems to guarantee high availability and reliability. 
+              Jerome has had to exercise perseverance in juggling his demanding work and coursework, but he is 
+              still motivated by his passion for innovation and technology. His resilience has been bolstered by
+              his dual experience, positioning him for a future where he intends to combine his
               academic background with real-world industry views.
             </p>
           </div>
