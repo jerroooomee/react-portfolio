@@ -1,5 +1,7 @@
 "use client";
 import Head from "next/head";
+import { useState } from "react";
+import { BsSunFill } from "react-icons/bs";
 import {BsFillMoonStarsFill, BsFillPuzzleFill} from 'react-icons/bs';
 import {AiFillLinkedin, AiFillInstagram} from 'react-icons/ai';
 import Image from "next/image";
@@ -7,6 +9,7 @@ import jerome from '../public/jerome.png';
 import {PuzzlePieceIcon} from '@heroicons/react/24/solid';
 
 export default function Home() {
+  const [darkMode, setDarkMode] = useState(false);
   return (
     <div>
       <Head>
