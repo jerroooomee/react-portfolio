@@ -101,7 +101,7 @@ export default function Home() {
           Have a project or opportunity? Let’s connect!
         </p>
         <form
-          action="https://formspree.io/f/mnqejpze"  // replace with your Formspree link
+          action="https://formspree.io/f/mnqejpze"  
           method="POST"
           className="max-w-md mx-auto bg-white dark:bg-gray-800 p-8 rounded-lg shadow-md flex flex-col gap-4"
         >
