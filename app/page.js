@@ -98,7 +98,7 @@ export default function Home() {
           Contact Me
         </h4>
         <p className="text-lg mb-6 text-gray-700 dark:text-gray-300">
-          Have a project or opportunity? Let’s connect!
+          Have a project or opportunity? Lets connect!
         </p>
         <form
           action="https://formspree.io/f/mnqejpze"  
